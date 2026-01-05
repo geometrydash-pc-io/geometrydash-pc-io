@@ -2,7 +2,7 @@
 Since its initial release in 2013, Geometry Dash has cemented itself as one of the most iconic rhythm-based platformers in mobile and PC gaming.
 Developed by Swedish developer Robert Topala under his company RobTop Games, the game quickly rose to popularity for its simple mechanics, vibrant visuals, and infamously challenging levels. What makes Geometry Dash unique is how it fuses fast-paced platforming with rhythm-based gameplay, creating an experience that's both frustratingly difficult and deeply satisfying.
 <p></p>
-✨<a href="https://geometrydash-pc.io">Try Geometry Dash for free here</a>
+✨<a href="https://geometry-online.io">Try Geometry Dash for free here</a>
 <h2>How Geometry Dash Works</h2>
 At its core, Geometry Dash is about timing. Players control a square-shaped icon that automatically moves forward across levels filled with spikes, gaps, and other deadly obstacles. The only control players have is tapping to jump—or holding for continuous jumps in later stages. Despite its simplicity, the game requires precise timing and memorization, especially as the levels increase in speed and complexity.
 <p></p>
